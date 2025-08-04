@@ -9,16 +9,16 @@ export default function Projects() {
       link: "#"
     },
     {
-      title: "Landing Page Design",
+      title: "SBC Foundation Trust (NGO)",
       description: "Modern and responsive landing page built with HTML, CSS, and JavaScript.",
       tech: ["HTML", "CSS", "JavaScript"],
-      link: "#"
+      link: "https://sbryashproject.netlify.app/"
     },
     {
-      title: "Demo Business Website",
-      description: "Created a responsive business demo website with UI/UX design principles.",
-      tech: ["React.js", "UI/UX", "WordPress"],
-      link: "#"
+      title: "Green Dunk",
+      description: "Created a responsive business E-commerce demo website with UI/UX design principles.",
+      tech: ["HTML", "CSS", "JavaScript"],
+      link: "https://greenyashproject.netlify.app/"
     }
   ];
 

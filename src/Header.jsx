@@ -8,7 +8,7 @@ export default function Header() {
       {/* Navbar */}
       <nav className="max-w-6xl mx-auto flex justify-between items-center px-6 py-4">
         <div className="flex items-center gap-1 ">
-        <img src={profile} alt="imgyash" className="h-15 w-10 rounded-full "/>
+        <img src={profile} alt="imgyash" className="h-14 w-10 rounded-full "/>
         <img src="" alt="" />
         <h1 className="text-2xl font-bold">Yash Gaur</h1>
 
