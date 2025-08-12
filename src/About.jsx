@@ -13,7 +13,7 @@ export default function About() {
 
       <div className="relative z-10 max-w-4xl mx-auto text-center">
         <h2 className="text-5xl font-extrabold mb-8 bg-gradient-to-r from-indigo-500 via-pink-500 to-yellow-400 bg-clip-text text-transparent animate-about-title drop-shadow-lg">
-          <span className="inline-block animate-bounce">👨‍💻</span> About Me
+          About Me
         </h2>
         <p className="text-xl text-gray-700 leading-relaxed font-medium animate-fade-in-up">
           Hi, I'm <span className="font-bold text-indigo-600 bg-gradient-to-r from-yellow-300 via-pink-400 to-indigo-400 bg-clip-text text-transparent animate-gradient-x">Yash Gaur</span> — a <span className="font-semibold text-pink-500">Frontend Developer</span> & <span className="font-semibold text-yellow-500">Web Designer</span> passionate about crafting

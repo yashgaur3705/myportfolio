@@ -34,7 +34,7 @@ export default function Projects() {
 
       <div className="relative z-10 max-w-6xl mx-auto text-center">
         <h2 className="text-5xl font-extrabold mb-12 bg-gradient-to-r from-indigo-500 via-pink-500 to-yellow-400 bg-clip-text text-transparent animate-project-title">
-          <span className="inline-block animate-bounce">🚀</span> Projects
+          Projects
         </h2>
         <div className="grid gap-10 sm:grid-cols-2 md:grid-cols-3">
           {projects.map((project, index) => (

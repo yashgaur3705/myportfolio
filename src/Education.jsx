@@ -31,7 +31,7 @@ export default function Education() {
 
       <div className="relative z-10 max-w-4xl mx-auto text-center">
         <h2 className="text-5xl font-extrabold mb-14 bg-gradient-to-r from-indigo-500 via-pink-500 to-yellow-400 bg-clip-text text-transparent animate-edu-title">
-          <span className="inline-block animate-bounce">🎓</span> Education
+         Education
         </h2>
         <div className="relative flex flex-col gap-12">
           {education.map((edu, index) => (
